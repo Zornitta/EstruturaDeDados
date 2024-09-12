@@ -1,0 +1,15 @@
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\bin\Debug\net8.0\Lista Generica.exe
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\bin\Debug\net8.0\Lista Generica.deps.json
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\bin\Debug\net8.0\Lista Generica.runtimeconfig.json
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\bin\Debug\net8.0\Lista Generica.dll
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\bin\Debug\net8.0\Lista Generica.pdb
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.AssemblyInfoInputs.cache
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.AssemblyInfo.cs
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.csproj.CoreCompileInputs.cache
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.sourcelink.json
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.dll
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\refint\Lista Generica.dll
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.pdb
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\Lista Generica.genruntimeconfig.cache
+C:\Users\429527\EstruturaDeDados\Atividades\Lista Generica\obj\Debug\net8.0\ref\Lista Generica.dll
