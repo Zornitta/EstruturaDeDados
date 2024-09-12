@@ -11,9 +11,9 @@
 Stack<char> caracteres = new Stack<char>();
 
 Console.Write("Escreva o nome: ");
-string? nome = Console.ReadLine().ToUpper();
+string? nome = Console.ReadLine()?.ToUpper();
 
-foreach(char c in nome)
+foreach(char c in nome!)
 {
     caracteres.Push(c);
     
